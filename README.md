@@ -14,14 +14,15 @@ This project contains a machine learning training script that can be run inside 
 This project demonstrates how to containerize a machine learning application by creating a Docker image that runs a training script with optimized hyperparameters. The project includes a Python script for data processing, model training, and a Docker configuration to ensure a reproducible environment.
 
 ## Repository Structure
-
+```plaintext
 my_ml_project/
+│
 ├── .dockerignore # Specifies files and directories to be ignored by Docker
 ├── Dockerfile # Dockerfile to build the training image
 ├── README.md # Project documentation
 ├── main.py # Main script to run the training with specified hyperparameters
-├── requirements.txt # Python dependencies for the project
-
+└── requirements.txt # Python dependencies for the project
+```
 
 ## Getting Started
 
