@@ -1,0 +1,15 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+node_modules
+.git
+.gitignore
+*.md
+tests/
+.venv
