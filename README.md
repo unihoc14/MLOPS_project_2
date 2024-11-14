@@ -45,7 +45,7 @@ my_ml_project/
     docker run --rm -it my_ml_project
     ```
 
-    During the run, you will be prompted to log in to Weights & Biases (wandb). If you want to use wandb for logging, make sure you have an account and your SSH key set up.
+    During the run, you will be prompted to log in to Weights & Biases (wandb). If you want to use wandb for logging, make sure you have an account and your API Key set up, if not you have the opportunity to skip this step.
 
 ## Running on GitHub Codespaces
 
@@ -69,6 +69,6 @@ my_ml_project/
     docker run --rm -it my_ml_project
     ```
 
-    During the run, you will be prompted to log in to Weights & Biases (wandb). If you want to use wandb for logging, make sure you have an account and your SSH key set up.
+    During the run, you will be prompted to log in to Weights & Biases (wandb). If you want to use wandb for logging, make sure you have an account and your API key set up, if not you have the opportunity to skip this step.
 
 
