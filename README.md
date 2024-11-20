@@ -7,7 +7,7 @@ This project contains a machine learning training script that can be run inside 
 - Docker installed on your machine
 - Git installed on your machine
 - Weights & Biases (wandb) account (if you want to use wandb for logging)
-- SSH key (if you want to use wandb for logging)
+- API key (if you want to use wandb for logging)
 
 ## Project Summary
 
